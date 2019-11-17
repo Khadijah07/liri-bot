@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Khadijah07/liri-bot/issues"
   },
-  "homepage": "https://github.com/Khadijah07/liri-bot#readme"
+  "homepage": "https://github.com/Khadijah07/liri-bot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1",
+    "twitter": "^1.7.1"
+  }
 }
